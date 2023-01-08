@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "FakeStockProxy.FunctionalTests": {
+      "commandName": "Project"
+    }
+  }
+}
